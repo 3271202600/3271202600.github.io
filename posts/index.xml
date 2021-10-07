@@ -13,7 +13,7 @@
       <pubDate>Tue, 05 Oct 2021 10:14:17 +0800</pubDate>
       
       <guid>http://example.org/posts/my-first-post/</guid>
-      <description>这是我的第一篇博客 欢迎大家和我讨论编程的问题 </description>
+      <description>这是我的第一篇博客 欢迎大家和我讨论编程的问题 在配置博客过程中对电脑系统的环境变量进行修改时出错，之后重新修改并解决 在命令指示符中执行hugo server —D命令，但之后忘记执行hugo—D命令，打开浏览器发现空白。最后重新执行hugo—D命令解决 在上传自己博客的时候多次超时未上传成功，最后切换网络上传成功 </description>
     </item>
     
   </channel>
